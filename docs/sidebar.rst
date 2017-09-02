@@ -18,3 +18,4 @@
     API <api/index>
     contact
     links
+    `GitHub <https://github.com/xonsh/xonsh>`__
